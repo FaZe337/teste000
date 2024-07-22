@@ -1,0 +1,78 @@
+// SkinChanger Max IDs - Rarely Need To Update These - Anything Higher Will Either Apply The Default Skin Or Crash The Game
+// Assault
+int Bangalore = 25;
+int Fuze = 22;
+int Ash = 18;
+int MadMaggie = 16;
+int Ballistic = 11;
+
+// Skirmisher
+int Pathfinder = 25;
+int Wraith = 28;
+int Octane = 34;
+int Revanant = 4;
+int Horizon = 23;
+int Valkyrie = 24;
+int Alter = 9;
+
+// Recon
+int Bloodhound = 27;
+int Crypto = 22;
+int Seer = 23;
+int Vantage = 14;
+
+// Support
+int Gibraltar = 21;
+int Lifeline = 27;
+int Mirage = 27;
+int Loba = 27;
+int Newcastle = 15;
+int Conduit = 9;
+
+// Controller
+int Caustic = 26;
+int Wattson = 24;
+int Rampart = 21;
+int Catalyst = 13;
+    
+// Light
+int P2020 = 11;
+int RE45 = 16;
+int Alternator = 17;
+int R99 = 20;
+int R301 = 18;
+int Spitfire = 18;
+int G7 = 22;
+
+// Heavy
+int Flatline = 21;
+int Hemlock = 18;
+int Prowler = 16;
+int Repeater = 13;
+int Rampage = 13;
+int CAR = 16;
+
+// Energy
+int Havoc = 15;
+int LSTAR = 13;
+int TripleTake = 13;
+int Volt = 16;
+int Nemesis = 10;
+
+// Shotgun
+int Mozambique = 8;
+int Peacekeeper = 17;
+int Mastiff = 14;
+
+// Sniper
+int Wingman = 18;
+int Longbow = 16;
+int ChargeRifle = 11;
+int Sentinel = 12;
+
+// Mythic
+int EVA8 = 14;
+int Devotion = 19;
+int Bocek = 10;
+int Kraber = 7;
+    
